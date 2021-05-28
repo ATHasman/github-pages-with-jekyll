@@ -1,5 +1,5 @@
 ---
-title: "Midfulness and the art of doing everything else"
+title: "Mindfulness: Accepting Yourself and Everything Else"
 date: 2021-05-28
 ---
 
