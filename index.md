@@ -1,8 +1,10 @@
 ---
-title: "Welcome to my Mindfulness Blog"
+title: "Welcome to AT's Mindfulness Blog"
 ---
 Hey, Nice to have you as a reader.
 I plan to talk about mindfulness in general and around ongoing life and proffesional activities, our choises and decisions we make and how it has to with dicipline and self experiancing.
+
+So let's Start with a definition:
 
 mind·ful·ness - /ˈmīn(d)f(ə)lnəs/ - noun
 1. the quality or state of being conscious or aware of something. "their mindfulness of the wider cinematic tradition"
