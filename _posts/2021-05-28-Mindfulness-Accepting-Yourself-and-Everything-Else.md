@@ -1,5 +1,5 @@
 ---
-title: "Mindfulness: Accepting Yourself and Everything Else"
+title: "Mindfulness - Accepting Yourself and Everything Else"
 date: 2021-05-28
 ---
 
